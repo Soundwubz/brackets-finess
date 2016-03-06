@@ -14,8 +14,8 @@
 
 ## Screenshots
 #### HTML
-![alt text]()
+![alt text](https://raw.githubusercontent.com/OfficialArtline/brackets-finess/master/git_img/html.png)
 #### CSS
-![alt text]()
+![alt text](https://raw.githubusercontent.com/OfficialArtline/brackets-finess/master/git_img/css.png)
 #### JS
-![alt text]()
+![alt text](https://raw.githubusercontent.com/OfficialArtline/brackets-finess/master/git_img/js.png)
