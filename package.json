@@ -1,0 +1,15 @@
+{
+    "name": "artline.finess",
+    "title": "Finess (Theme)",
+    "description": "Finess is a dark & colorful syntax theme.",
+    "homepage": "https://github.com/OfficialArtline/brackets-finess",
+    "version": "1.0.0",
+    "author": "Artline__ (http://www.officialartline.com)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
